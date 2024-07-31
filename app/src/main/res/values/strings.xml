@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Recyclerview_Example</string>
+    <string name="enter_student_information">Enter Student Information</string>
+    <string name="name">Name</string>
+    <string name="father_s_name">Father\'s Name</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="section">Section</string>
+    <string name="submit_form">Submit Form</string>
+    <string name="nameperson">Name</string>
+    <string name="nareenasad">Nareen Asad</string>
+    <string name="personfather_name">Father Name</string>
+    <string name="asadkamra">Asad Kamran</string>
+    <string name="rollnumber">RollNumber</string>
+    <string name="bscs14071">BSSE135</string>
+    <string name="section1">Section</string>
+    <string name="cs14">SE</string>
+    <string name="personname">Name</string>
+    <string name="country">Country</string>
+    <string name="company">Company</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+</resources>
